@@ -13,7 +13,7 @@
 
 
 ## Descripción
-Consta de una placa de Arduino, de la cual se desprenden diversos cables que otorgan funcionamiento a través de una diferencia de potencial a 2 display de 7 segmentos y 3 botones. Los tres botones realizan modificaciones en el numero que forman ambos displays.
+Consta de una placa de Arduino, de la cual se desprenden diversos cables que otorgan funcionamiento a través de una diferencia de potencial a 2 display de 7 segmentos, 2 botones, 2 motores, 1 sensor y 1 interruptor . Los 2 botones realizan modificaciones en el numero que forman ambos displays.
 
 ## Función principal
 A traves de los botones del proyecto permite incrementar o resetear el número que forman ambos display, este va desde 00 hasta 99. Cada uno de los botones tiene su función de manera independiente.
