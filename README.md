@@ -1,5 +1,5 @@
 # Trabajo grupal TinkerCad 
-![Tinkercad](./imagenes/ArduinoTinkercad.jpg)
+![Tinkercad](./imagenes2/ArduinoTinkercad.jpg)
 
 
 ## Integrantes 
@@ -9,7 +9,7 @@
 
 
 ## Proyecto: Multiplexación.
-![Tinkercad](./imagenes/CapturaArduino.PNG)
+![Tinkercad](./imagenes2/CapturaArduino.PNG)
 
 
 ## Descripción
