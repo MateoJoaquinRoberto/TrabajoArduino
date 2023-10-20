@@ -46,7 +46,7 @@ Por ejemplo: Si estas con el switch hacia la derecha, en donde se pueden sumar c
 
 
 ## :robot: Link al proyecto
-- [Proyecto]((https://www.tinkercad.com/things/4b4LwiwJrVo-copy-of-prueba-arduino-parte-2/editel)).
+- [Proyecto](https://www.tinkercad.com/things/4b4LwiwJrVo-copy-of-prueba-arduino-parte-2/editel).
 
 ---
 ### Fuentes
